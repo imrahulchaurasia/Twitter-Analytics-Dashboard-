@@ -32,7 +32,7 @@ URL Clicks
 Hashtag Clicks
 Profile Clicks
 
-7. 🚀 Features
+8. 🚀 Features
 ✔ Tweet Trends by Week – visualize when tweets perform best
 ✔ Media Views vs Engagements – track audience response to media posts
 ✔ Tweets Count by Day – measure posting consistency
@@ -42,7 +42,7 @@ Profile Clicks
 ✔ Impressions Tracking – monitor visibility across days
 ✔ KPI Cards – quick stats (media views, impressions, engagement rate, tweet count)
 
-8. Screenshots/Demos
+9. Screenshots/Demos
 Show what that dashboard looks like.
-Example : https://github.com/imrahulchaurasia/Twitter-Analytics-Dashboard-/blob/main/Twitter%20Analytics%20Dashboard.png
+Example :(https://github.com/imrahulchaurasia/Twitter-Analytics-Dashboard-/blob/main/Twitter%20Analytics%20Dashboard.png)
 
