@@ -1,5 +1,5 @@
 # Twitter-Analytics-Dashboard-
-1. Project Overview
+## 1. Project Overview
 
 The Twitter Analytics Dashboard is an interactive data visualization tool that tracks and analyzes Twitter performance. It provides insights into tweet activity, engagement, impressions, retweets, likes, and audience behavior across different days of the week.
 This project is designed to help social media managers, analysts, and marketers make data-driven decisions to improve their Twitter strategies.
@@ -28,15 +28,14 @@ Contains tweet-level metrics: impressions, engagements, retweets, likes, link cl
 
 9. Example columns:
 
-Tweet Text
-Impressions
-Engagements
-
-Retweets
-Likes
-URL Clicks
-Hashtag Clicks
-Profile Clicks
+Tweet Text,
+Impressions,
+Engagements,
+Retweets,
+Likes,
+URL Clicks,
+Hashtag Clicks,
+Profile Clicks,
 
 11. 🚀 Features
     
@@ -50,6 +49,6 @@ Profile Clicks
 ✔ KPI Cards – quick stats (media views, impressions, engagement rate, tweet count)
 
 13. Screenshots/Demos
-Show what that dashboard looks like.
-Example :
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/imrahulchaurasia/Twitter-Analytics-Dashboard-/blob/main/Twitter%20Analytics%20Dashboard.png)
 
