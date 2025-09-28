@@ -1,11 +1,9 @@
 # Twitter-Analytics-Dashboard-
 ## 1. Project Overview
-
 The Twitter Analytics Dashboard is an interactive data visualization tool that tracks and analyzes Twitter performance. It provides insights into tweet activity, engagement, impressions, retweets, likes, and audience behavior across different days of the week.
 This project is designed to help social media managers, analysts, and marketers make data-driven decisions to improve their Twitter strategies.
 
-3. 📝 Description
-   
+##2. 📝 Description
 The dashboard consolidates raw Twitter analytics data into clear and interactive visualizations. It highlights:
 Weekly tweet activity trends
 Engagement metrics (likes, retweets, clicks)
@@ -14,20 +12,17 @@ Top-performing tweets by URL clicks
 Audience interactions with hashtags and profiles
 With these insights, users can optimize content posting schedules, engagement strategies, and campaign effectiveness.
 
-5. 🛠 Tech Stack
-   
+##3. 🛠 Tech Stack
 Power BI / Tableau / Excel (depending on what you used) → for dashboard creation
 Python (Pandas, Matplotlib, Seaborn, Plotly) → for data preprocessing & visualization (if used)
 SQL → for querying structured data (if applicable)
 CSV/Excel Import → for raw Twitter analytics data.
 
-7. 📊 Data Source
-   
+##4. 📊 Data Source
 Twitter Analytics Export (CSV file downloaded from Twitter’s analytics platform)
 Contains tweet-level metrics: impressions, engagements, retweets, likes, link clicks, profile visits, and hashtag clicks.
 
-9. Example columns:
-
+##5. Example columns:
 Tweet Text,
 Impressions,
 Engagements,
@@ -37,8 +32,7 @@ URL Clicks,
 Hashtag Clicks,
 Profile Clicks,
 
-11. 🚀 Features
-    
+##6. 🚀 Features
 ✔ Tweet Trends by Week – visualize when tweets perform best
 ✔ Media Views vs Engagements – track audience response to media posts
 ✔ Tweets Count by Day – measure posting consistency
@@ -48,7 +42,7 @@ Profile Clicks,
 ✔ Impressions Tracking – monitor visibility across days
 ✔ KPI Cards – quick stats (media views, impressions, engagement rate, tweet count)
 
-13. Screenshots/Demos
+##7. Screenshots/Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/imrahulchaurasia/Twitter-Analytics-Dashboard-/blob/main/Twitter%20Analytics%20Dashboard.png)
 
